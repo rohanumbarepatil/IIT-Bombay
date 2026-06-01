@@ -7,6 +7,6 @@ https://github.com/rohanumbarepatil/IIT-Bombay/blob/main/Landing%20Page%20Video%
 
 
 
-📁 **Project Files & Documentation**
+📁 **Project Files**
 
 https://drive.google.com/drive/folders/1HHCb574aGpzO5ULOwS6SZZacz0Ipbkyw?usp=sharing
